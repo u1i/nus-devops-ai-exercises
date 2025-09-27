@@ -1,5 +1,3 @@
-# 1503-exercise.md
-
 # Hands-On Exercise: DNS Detective Work
 
 **Course:** DevOps and Cloud with AI   

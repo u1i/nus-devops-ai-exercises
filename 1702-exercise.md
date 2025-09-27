@@ -1,5 +1,3 @@
-# 1702-exercise.md
-
 # Hands-On Exercise: AWS Basic Services and CLI
 
 **Course:** DevOps and Cloud with AI   
